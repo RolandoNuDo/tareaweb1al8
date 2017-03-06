@@ -1,0 +1,17 @@
+body{
+    background: #bbdefb
+}
+#listaDesordenada{
+    background: #64b5f6;
+    border: 2px;
+    border-color:black;
+    width: 300px;
+    height: auto;
+}
+#listaOrdenada{
+    background: #64b5f6;
+    border: 2px;
+    border-color:black;
+    width: 300px;
+    height: auto;
+}
